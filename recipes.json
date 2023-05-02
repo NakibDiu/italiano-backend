@@ -1,0 +1,348 @@
+{
+  "recipes": [
+    {
+      "recipe_id": 1,
+      "chef_id": 1,
+      "name": "Spaghetti Carbonara",
+      "image": "https://i.postimg.cc/QC88ZbcT/1-1.jpg",
+      "ingredients": [
+        "1 pound spaghetti",
+        "6 ounces pancetta, diced",
+        "4 garlic cloves, finely chopped",
+        "2 large eggs",
+        "1 cup freshly grated Parmesan cheese"
+      ],
+      "cooking_method": "Cook spaghetti in a large pot of salted boiling water, until al dente. Meanwhile, cook pancetta in a large skillet over medium heat until browned and crisp. Add garlic and cook until fragrant. In a small bowl, whisk together eggs and Parmesan cheese. Drain spaghetti and add to the skillet with pancetta. Remove from heat and pour egg mixture over pasta, tossing quickly to avoid scrambling the eggs. Serve immediately with additional Parmesan cheese and black pepper.",
+      "rating": 4.8
+    },
+    {
+      "recipe_id": 2,
+      "chef_id": 1,
+      "image": "https://i.postimg.cc/4yQYzyQz/1-2.jpg",
+      "name": "Tiramisu",
+      "ingredients": [
+        "6 egg yolks",
+        "3/4 cup white sugar",
+        "2/3 cup milk",
+        "1 1/4 cups heavy cream",
+        "1/2 teaspoon vanilla extract",
+        "1 pound mascarpone cheese",
+        "1/4 cup strong brewed coffee, at room temperature",
+        "2 tablespoons rum",
+        "24 ladyfingers",
+        "2 tablespoons cocoa powder"
+      ],
+      "cooking_method": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over low heat, stirring constantly, until mixture thickens and coats the back of a spoon. Remove from heat and allow to cool. In a large bowl, beat cream with vanilla until stiff peaks form. Fold in mascarpone cheese. In a small bowl, combine coffee and rum. Dip each ladyfinger in coffee mixture and arrange in a single layer in a 9x13 inch dish. Spread half of the mascarpone mixture over the ladyfingers, then repeat with another layer of ladyfingers and mascarpone mixture. Cover and refrigerate for at least 2 hours or overnight. Dust with cocoa powder before serving.",
+      "rating": 4.0
+    },
+    {
+      "recipe_id": 3,
+      "chef_id": 1,
+      "name": "Pasta Carbonara",
+      "image": "https://i.postimg.cc/DwM8QtLY/1-3.jpg",
+      "ingredients": [
+        "1 pound spaghetti",
+        "1/2 pound bacon, chopped",
+        "4 eggs",
+        "1 cup freshly grated Parmesan cheese",
+        "1/2 cup freshly grated Pecorino Romano cheese",
+        "4 cloves garlic, minced",
+        "1/4 teaspoon black pepper"
+      ],
+      "cooking_method": "Cook the spaghetti in a large pot of boiling salted water until al dente. While the spaghetti is cooking, cook the bacon in a large skillet over medium heat until crispy. In a medium bowl, whisk together the eggs, Parmesan cheese, Pecorino Romano cheese, garlic, and black pepper. Drain the spaghetti, reserving 1/2 cup of the pasta water. Add the spaghetti to the skillet with the bacon and toss to combine. Remove the skillet from the heat and pour the egg mixture over the spaghetti. Toss the spaghetti until the sauce thickens and coats the pasta, adding reserved pasta water as necessary to loosen the sauce. Serve immediately, topped with additional Parmesan cheese and black pepper if desired.",
+      "rating": 4.5
+    },
+    {
+      "recipe_id": 4,
+      "chef_id": 2,
+      "name": "Fettuccine Alfredo",
+      "image": "https://i.postimg.cc/qvRN3kh3/2-1.jpg",
+      "ingredients": [
+        "1 pound fettuccine",
+        "1 cup unsalted butter",
+        "2 cups heavy cream",
+        "1 1/2 cups freshly grated Parmesan cheese",
+        "1/2 teaspoon freshly grated nutmeg",
+        "Salt and freshly ground black pepper"
+      ],
+      "cooking_method": "Cook the fettuccine in a large pot of boiling salted water until al dente. While the pasta is cooking, melt the butter in a large skillet over medium heat. Add the heavy cream and nutmeg and bring to a simmer. Reduce the heat to low and whisk in the Parmesan cheese until the sauce is smooth and creamy. Season with salt and pepper to taste. Drain the pasta and add it to the skillet with the sauce. Toss the pasta with the sauce until it is well coated. Serve immediately, garnished with additional Parmesan cheese if desired.",
+      "rating": 4.2
+    },
+    {
+      "recipe_id": 5,
+      "chef_id": 2,
+      "name": "Linguine with Clams",
+      "image": "https://i.postimg.cc/zfH3x0kD/2-2.jpg",
+      "ingredients": [
+        "1 pound linguine",
+        "4 tablespoons unsalted butter",
+        "4 garlic cloves, minced",
+        "1/2 teaspoon red pepper flakes",
+        "1/2 cup dry white wine",
+        "24 littleneck clams, scrubbed",
+        "1/2 cup chopped fresh parsley"
+      ],
+      "cooking_method": "Cook the linguine in a large pot of boiling salted water until al dente. While the pasta is cooking, melt the butter in a large skillet over medium heat. Add the garlic and red pepper flakes and cook until fragrant. Add the white wine and bring to a simmer. Add the clams and cover the skillet. Cook until the clams have opened, about 5 minutes. Discard any clams that do not open. Drain the pasta and add it to the skillet with the clams and sauce. Toss the pasta with the sauce until it is well coated. Serve immediately, garnished with chopped parsley.",
+      "rating": 4.7
+    },
+    {
+      "recipe_id": 10,
+      "chef_id": 2,
+      "name": "Roasted Beet Salad",
+      "image": "https://i.postimg.cc/tTtqcfnb/2-3.jpg",
+      "ingredients": [
+        "4 medium beets, roasted",
+        "6 cups mixed greens",
+        "1/2 cup crumbled goat cheese",
+        "1/2 cup chopped pecans",
+        "1/4 cup balsamic vinegar",
+        "1/4 cup extra-virgin olive oil",
+        "1 tablespoon Dijon mustard",
+        "1 tablespoon honey",
+        "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. Preheat oven to 375°F. Scrub beets and trim ends. Wrap beets tightly in aluminum foil and place on baking sheet. Roast for 45-60 minutes, until beets are tender. Let cool, then peel and cut into 1/2-inch pieces. \n2. In a small bowl, whisk together balsamic vinegar, olive oil, Dijon mustard, honey, salt, and pepper to make the dressing. \n3. In a large bowl, combine mixed greens and roasted beets. Toss with dressing. \n4. Divide salad among four plates and sprinkle each with crumbled goat cheese and chopped pecans.",
+      "rating": 4.9
+    },
+    {
+      "recipe_id": 4,
+      "chef_id": 3,
+      "name": "Fettuccine Alfredo",
+      "image": "https://i.postimg.cc/90LWm7BN/3-1.jpg",
+      "ingredients": [
+        "1 pound fettuccine",
+        "1 cup unsalted butter",
+        "2 cups heavy cream",
+        "1 1/2 cups freshly grated Parmesan cheese",
+        "1/2 teaspoon freshly grated nutmeg",
+        "Salt and freshly ground black pepper"
+      ],
+      "cooking_method": "Cook the fettuccine in a large pot of boiling salted water until al dente. While the pasta is cooking, melt the butter in a large skillet over medium heat. Add the heavy cream and nutmeg and bring to a simmer. Reduce the heat to low and whisk in the Parmesan cheese until the sauce is smooth and creamy. Season with salt and pepper to taste. Drain the pasta and add it to the skillet with the sauce. Toss the pasta with the sauce until it is well coated. Serve immediately, garnished with additional Parmesan cheese if desired.",
+      "rating": 4.2
+    },
+    {
+      "recipe_id": 5,
+      "chef_id": 3,
+      "name": "Linguine with Clams",
+      "image": "https://i.postimg.cc/CKbSZtN8/3-2.jpg",
+      "ingredients": [
+        "1 pound linguine",
+        "4 tablespoons unsalted butter",
+        "4 garlic cloves, minced",
+        "1/2 teaspoon red pepper flakes",
+        "1/2 cup dry white wine",
+        "24 littleneck clams, scrubbed",
+        "1/2 cup chopped fresh parsley"
+      ],
+      "cooking_method": "Cook the linguine in a large pot of boiling salted water until al dente. While the pasta is cooking, melt the butter in a large skillet over medium heat. Add the garlic and red pepper flakes and cook until fragrant. Add the white wine and bring to a simmer. Add the clams and cover the skillet. Cook until the clams have opened, about 5 minutes. Discard any clams that do not open. Drain the pasta and add it to the skillet with the clams and sauce. Toss the pasta with the sauce until it is well coated. Serve immediately, garnished with chopped parsley.",
+      "rating": 4.7
+    },
+    {
+      "recipe_id": 10,
+      "chef_id": 3,
+      "name": "Roasted Beet Salad",
+      "image": "https://i.postimg.cc/pdjXfy2p/3-3.jpg",
+      "ingredients": [
+        "4 medium beets, roasted",
+        "6 cups mixed greens",
+        "1/2 cup crumbled goat cheese",
+        "1/2 cup chopped pecans",
+        "1/4 cup balsamic vinegar",
+        "1/4 cup extra-virgin olive oil",
+        "1 tablespoon Dijon mustard",
+        "1 tablespoon honey",
+        "Salt and pepper, to taste"
+      ],
+      "cooking_method": "1. Preheat oven to 375°F. Scrub beets and trim ends. Wrap beets tightly in aluminum foil and place on baking sheet. Roast for 45-60 minutes, until beets are tender. Let cool, then peel and cut into 1/2-inch pieces. \n2. In a small bowl, whisk together balsamic vinegar, olive oil, Dijon mustard, honey, salt, and pepper to make the dressing. \n3. In a large bowl, combine mixed greens and roasted beets. Toss with dressing. \n4. Divide salad among four plates and sprinkle each with crumbled goat cheese and chopped pecans.",
+      "rating": 4.9
+    },
+    {
+      "recipe_id": 22,
+      "chef_id": 4,
+      "name": "Tagliatelle al Ragu",
+      "image": "https://i.postimg.cc/T202qzXq/4-1.jpg",
+      "ingredients": [
+        "400g tagliatelle",
+        "500g beef, minced",
+        "2 cans of tomatoes, chopped",
+        "1 onion, finely chopped",
+        "2 celery sticks, finely chopped",
+        "2 carrots, finely chopped",
+        "3 garlic cloves, minced",
+        "2 bay leaves",
+        "1 sprig of rosemary",
+        "1 glass of red wine",
+        "Parmesan cheese, grated",
+        "Salt and pepper"
+      ],
+      "cooking_method": "1. Heat some olive oil in a large pan and add the onion, celery, carrots and garlic. Cook until softened. \n2. Add the minced beef and cook until browned. \n3. Add the tomatoes, bay leaves and rosemary. Season with salt and pepper. \n4. Add the red wine and simmer for at least an hour, until the sauce is thick and rich. \n5. Cook the tagliatelle in a large pot of salted water until al dente. \n6. Drain the pasta and add it to the pan with the ragu. Toss until the pasta is coated in the sauce. \n7. Serve with grated Parmesan cheese.",
+      "rating": 4.8
+    },
+    {
+      "recipe_id": 23,
+      "chef_id": 4,
+      "name": "Parmigiano Reggiano Four Ways",
+      "image": "https://i.postimg.cc/DZKfBFZ5/4-2.jpg",
+      "ingredients": [
+        "Parmigiano Reggiano cheese, grated",
+        "1/4 cup balsamic vinegar",
+        "1/4 cup honey",
+        "4 ripe figs",
+        "1/4 cup walnuts, chopped",
+        "1/4 cup pine nuts",
+        "1/4 cup raisins",
+        "Salt and pepper"
+      ],
+      "cooking_method": "1. Preheat the oven to 375°F. \n2. Line a baking sheet with parchment paper and spread the grated Parmigiano Reggiano cheese into four equal circles. \n3. Bake for 5-7 minutes, until the cheese is melted and bubbly. \n4. Meanwhile, in a small saucepan, heat the balsamic vinegar and honey over medium heat until thick and syrupy. \n5. Cut the figs into quarters and toast the walnuts and pine nuts in a dry pan until golden. \n6. To assemble the dish, top each Parmigiano Reggiano circle with a quartered fig, some toasted nuts, a sprinkle of raisins, and a drizzle of the balsamic honey. \n7. Season with salt and pepper to taste.",
+      "rating": 4.6
+    },
+    {
+      "recipe_id": 24,
+      "chef_id": 4,
+      "name": "Zuppa di Pesce",
+      "image": "https://i.postimg.cc/V6RwgC2L/4-3.jpg",
+      "ingredients": [
+        "1/4 cup extra-virgin olive oil",
+        "4 garlic cloves, thinly sliced",
+        "1/2 teaspoon red pepper flakes",
+        "1 (28-ounce) can whole peeled tomatoes, crushed by hand",
+        "2 cups fish stock",
+        "1/2 cup white wine",
+        "1 pound littleneck clams, scrubbed",
+        "1 pound mussels, scrubbed and debearded",
+        "1/2 pound shrimp, peeled and deveined",
+        "1/2 pound scallops",
+        "1/2 pound calamari, cleaned and sliced into rings",
+        "Salt and freshly ground black pepper",
+        "1/4 cup chopped fresh parsley"
+      ],
+      "cooking_method": "1. In a large pot, heat the olive oil over medium heat. Add the garlic and red pepper flakes and cook until fragrant. Add the crushed tomatoes and cook until the sauce has thickened, about 15 minutes. \n2. Add the fish stock and white wine and bring to a simmer. Add the clams and mussels, cover the pot, and cook until the shells have opened, about 5 minutes. Discard any clams or mussels that do not open. \n3. Add the shrimp, scallops, and calamari and cook until the shrimp are pink and the calamari are tender, about 3 minutes. Season the soup with salt and pepper to taste. \n4. Serve the soup in bowls, garnished with chopped parsley.",
+      "rating": 4.8
+    },
+    {
+      "recipe_id": 12,
+      "chef_id": 5,
+      "name": "Spaghetti with Meatballs",
+      "image": "https://i.postimg.cc/T3LRxh5C/5-1.jpg",
+      "ingredients": [
+        "1 pound spaghetti",
+        "1 pound ground beef",
+        "1/2 pound ground pork",
+        "1/2 cup finely grated Parmesan cheese",
+        "1/2 cup breadcrumbs",
+        "2 garlic cloves, minced",
+        "2 eggs",
+        "1/2 teaspoon salt",
+        "1/4 teaspoon black pepper",
+        "3 cups marinara sauce"
+      ],
+      "cooking_method": "1. Cook spaghetti in a large pot of boiling salted water until al dente. Drain, reserving 1/2 cup of pasta cooking water. \n2. In a large bowl, combine ground beef, ground pork, Parmesan cheese, breadcrumbs, garlic, eggs, salt, and black pepper. Mix until well combined. Shape mixture into 12 meatballs. \n3. Heat marinara sauce in a large skillet over medium heat. Add meatballs and simmer, covered, until cooked through, about 15 minutes. \n4. Toss cooked spaghetti with sauce and meatballs, adding reserved pasta cooking water if needed to thin the sauce. Serve immediately, garnished with additional Parmesan cheese if desired.",
+      "rating": 4.8
+    },
+    {
+      "recipe_id": 27,
+      "chef_id": 5,
+      "name": "Pasta alla Norma",
+      "image": "https://i.postimg.cc/4N3f8WfC/5-2.jpg",
+      "ingredients": [
+        "1 pound pasta (penne or spaghetti)",
+        "1 eggplant",
+        "1/2 cup olive oil",
+        "1/2 cup grated ricotta salata cheese",
+        "1 1/2 cups tomato sauce",
+        "2 garlic cloves, minced",
+        "1/4 teaspoon red pepper flakes",
+        "Salt and black pepper, to taste",
+        "Fresh basil leaves, torn, for garnish"
+      ],
+      "cooking_method": "1. Bring a large pot of salted water to a boil. Add the pasta and cook according to package instructions until al dente. Drain and set aside. \n2. Preheat the oven to 400°F. Cut the eggplant into 1-inch cubes and toss with 1/4 cup of the olive oil. Spread the eggplant out on a baking sheet and roast in the oven until tender and lightly browned, about 25 minutes. \n3. In a large skillet, heat the remaining 1/4 cup of olive oil over medium heat. Add the garlic and red pepper flakes and cook for 30 seconds, until fragrant. Add the tomato sauce and bring to a simmer. Cook for 5-7 minutes, until slightly thickened. \n4. Add the roasted eggplant to the tomato sauce and stir to combine. Season with salt and black pepper to taste. \n5. Add the cooked pasta to the skillet and toss to coat with the sauce. \n6. Serve hot, garnished with grated ricotta salata cheese and torn basil leaves.",
+      "rating": 4.9
+    },
+    {
+      "recipe_id": 15,
+      "chef_id": 5,
+      "name": "Chicken Cacciatore",
+      "image": "https://i.postimg.cc/tTyyF5SM/5-3.jpg",
+      "ingredients": [
+        "1 whole chicken, cut into pieces",
+        "1/4 cup all-purpose flour",
+        "Salt and freshly ground black pepper",
+        "1/4 cup extra-virgin olive oil",
+        "1 large onion, chopped",
+        "6 garlic cloves, finely chopped",
+        "1/2 cup dry white wine",
+        "1 can (28 ounces) peeled tomatoes, crushed by hand",
+        "1/2 cup chicken broth",
+        "2 teaspoons chopped fresh rosemary leaves",
+        "1/4 cup chopped fresh flat-leaf parsley"
+      ],
+      "cooking_method": "1. Season the chicken pieces with salt and pepper. Dredge them in the flour, shaking off the excess. \n2. In a large pot or Dutch oven, heat the oil over medium-high heat. Add the chicken and cook until browned on all sides, about 10 minutes. Remove the chicken from the pot and set aside. \n3. Add the onion and garlic to the pot and cook, stirring occasionally, until softened, about 5 minutes. Add the wine and bring to a boil, scraping the browned bits from the bottom of the pot. \n4. Add the tomatoes and their juice, chicken broth, rosemary, and salt and pepper to taste. Return the chicken to the pot and bring the mixture to a simmer. \n5. Cover and simmer until the chicken is cooked through and the sauce has thickened, about 30 minutes. \n6. Sprinkle with parsley before serving.",
+      "rating": 4.5
+    },
+    {
+      "recipe_id": 7,
+      "chef_id": 6,
+      "name": "Risotto alla Milanese",
+      "image": "https://i.postimg.cc/jdksBy2D/6-1.jpg",
+      "ingredients": [
+        "1 cup Arborio rice",
+        "4 cups chicken or vegetable broth",
+        "1 small onion, finely chopped",
+        "2 tablespoons unsalted butter",
+        "1/2 cup dry white wine",
+        "1/2 cup grated Parmigiano-Reggiano cheese",
+        "1/4 teaspoon saffron threads",
+        "Salt and freshly ground black pepper, to taste"
+      ],
+      "cooking_method": "1. In a large saucepan, bring the broth to a simmer and keep it warm over low heat. \n2. In another large saucepan, melt 1 tablespoon of the butter over medium heat. Add the onion and cook, stirring, until softened, about 5 minutes. \n3. Add the rice to the pan and cook, stirring, until it is evenly coated with the butter and onion mixture, about 2 minutes. \n4. Add the wine to the pan and cook, stirring, until it is absorbed. \n5. Add a ladleful of the warm broth to the rice and stir constantly until the broth is absorbed. Continue adding broth, one ladleful at a time, stirring constantly and letting each addition be absorbed before adding more. \n6. After about 18-20 minutes, the rice should be tender but still slightly firm in the center. Stir in the remaining butter, Parmigiano-Reggiano cheese, and saffron. Season with salt and black pepper to taste. \n7. Serve immediately, garnished with additional grated Parmigiano-Reggiano cheese if desired.",
+      "rating": 4.7
+    },
+    {
+      "recipe_id": 18,
+      "chef_id": 6,
+      "name": "Ossobuco alla Milanese",
+      "image": "https://i.postimg.cc/GtmC5p1P/6-2.jpg",
+      "ingredients": [
+        "4 veal shanks, about 1 1/2 inches thick",
+        "1/4 cup all-purpose flour",
+        "Salt and freshly ground black pepper, to taste",
+        "4 tablespoons unsalted butter",
+        "1/4 cup extra-virgin olive oil",
+        "1 large onion, chopped",
+        "2 garlic cloves, finely chopped",
+        "2 carrots, chopped",
+        "2 celery stalks, chopped",
+        "1 cup dry white wine",
+        "1 can (28 ounces) whole peeled tomatoes, crushed by hand",
+        "1 cup chicken or beef broth",
+        "1 sprig fresh rosemary",
+        "1 sprig fresh thyme",
+        "1 bay leaf",
+        "Gremolata (optional): 1/4 cup chopped fresh flat-leaf parsley, 1 tablespoon grated lemon zest, and 2 garlic cloves, minced",
+        "Gremolata (optional): 1/4 cup chopped fresh flat-leaf parsley, 1 tablespoon grated lemon zest, and 2 garlic cloves, minced"
+      ],
+      "cooking_method": "1. Preheat the oven to 350°F (175°C).\n2. Season the veal shanks with salt and pepper, and dredge in the flour.\n3. In a large Dutch oven or ovenproof pot, heat the butter and olive oil over medium-high heat. Add the veal shanks and cook until browned on both sides, about 8 minutes. Remove the shanks and set aside.\n4. Add the onion, garlic, carrots, and celery to the pot and cook until softened, about 5 minutes.\n5. Pour in the white wine and bring to a boil, scraping the bottom of the pot to release any browned bits.\n6. Add the tomatoes, broth, rosemary, thyme, and bay leaf. Bring to a simmer.\n7. Return the veal shanks to the pot and spoon some of the tomato mixture over them. Cover the pot and transfer to the oven.\n8. Bake for 2 to 2 1/2 hours, until the meat is very tender and falling off the bone.\n9. Serve hot, with gremolata (optional) sprinkled over the top.",
+      "rating": 4.7
+    },
+    {
+      "recipe_id": 25,
+      "chef_id": 6,
+      "name": "Pan-Seared Scallops with Lemon Butter Sauce",
+      "image": "https://i.postimg.cc/W1Bs1jMj/6-3.jpg",
+      "ingredients": [
+        "1 lb large sea scallops",
+        "Salt and black pepper",
+        "2 tbsp olive oil",
+        "1/4 cup unsalted butter",
+        "3 garlic cloves, minced",
+        "1/4 cup chicken broth",
+        "1 tbsp fresh lemon juice",
+        "1 tbsp chopped fresh parsley",
+        "1 tbsp chopped fresh chives",
+        "Lemon wedges for serving"
+      ],
+      "cooking_method": "Heat a large skillet over medium-high heat. Pat the scallops dry with paper towels and season with salt and pepper. Add the olive oil to the skillet and swirl to coat. Add the scallops and cook until golden brown and crisp, about 2-3 minutes per side. Transfer the scallops to a plate and cover with foil to keep warm. In the same skillet, melt the butter over medium heat. Add the garlic and cook until fragrant, about 1 minute. Add the chicken broth and lemon juice and cook until the sauce has thickened slightly, about 2 minutes. Stir in the parsley and chives. Spoon the sauce over the scallops and serve with lemon wedges.",
+      "rating": 4.9
+    }
+  ]
+}

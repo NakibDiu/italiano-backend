@@ -6,8 +6,8 @@ const port = 5000;
 app.use(cors());
 
 
-const chefData = require("../italiano_backend/data/chefs.json");
-const recipeData = require("../italiano_backend/data/recipes.json");
+const chefData = require("./data/chefs.json");
+const recipeData = require("./data/recipes.json");
 
 
 // chefs data

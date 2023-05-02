@@ -4,10 +4,13 @@ const port = 5000;
 const chefData = require("../italiano_backend/data/chefs.json");
 const recipeData = require("../italiano_backend/data/recipes.json");
 
+
+// chefs data
 app.get("/", (req, res) => {
   res.send(chefData);
 });
 
+// recipe data according to chef id
 app.get("/:id/recipes", (req, res) => {
   const id = parseInt(req.params.id);
   const allRecipes = recipeData;

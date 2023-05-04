@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Giada De Laurentiis",
-      "images": {
+      "image": {
         "small": "https://i.postimg.cc/JzsLQjYq/chef1-small.png",
         "large": "https://i.postimg.cc/prswfdD4/chef1-cover.png"
       },
@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "Mario Batali",
-      "images": {
+      "image": {
         "small": "https://i.postimg.cc/3wpQsYT0/chef-2-small.png",
         "large": "https://i.postimg.cc/nhjympMS/chef-2-cover.png"
       },
@@ -25,7 +25,7 @@
     {
       "id": 3,
       "name": "Gualtiero Marchesi",
-      "images": {
+      "image": {
         "small": "https://i.postimg.cc/VLGwMKgv/chef-3-small.png",
         "large": "https://i.postimg.cc/FsBt17FJ/chef-3-cover.png"
       },
